@@ -1,0 +1,3 @@
+Entry Points: Manually split code using entry configuration.
+Prevent Duplication: Use Entry dependencies or SplitChunksPlugin to dedupe and split chunks.
+Dynamic Imports: Split code via inline function calls within modules
